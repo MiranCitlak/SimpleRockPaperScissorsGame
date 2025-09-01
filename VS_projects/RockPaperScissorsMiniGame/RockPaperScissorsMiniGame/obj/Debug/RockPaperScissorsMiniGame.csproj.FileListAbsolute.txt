@@ -1,0 +1,11 @@
+C:\Users\miran\OneDrive\Desktop\VS_projects\RockPaperScissorsMiniGame\RockPaperScissorsMiniGame\bin\Debug\RockPaperScissorsMiniGame.exe.config
+C:\Users\miran\OneDrive\Desktop\VS_projects\RockPaperScissorsMiniGame\RockPaperScissorsMiniGame\bin\Debug\RockPaperScissorsMiniGame.exe
+C:\Users\miran\OneDrive\Desktop\VS_projects\RockPaperScissorsMiniGame\RockPaperScissorsMiniGame\bin\Debug\RockPaperScissorsMiniGame.pdb
+C:\Users\miran\OneDrive\Desktop\VS_projects\RockPaperScissorsMiniGame\RockPaperScissorsMiniGame\obj\Debug\RockPaperScissorsMiniGame.csproj.AssemblyReference.cache
+C:\Users\miran\OneDrive\Desktop\VS_projects\RockPaperScissorsMiniGame\RockPaperScissorsMiniGame\obj\Debug\RockPaperScissorsMiniGame.Form1.resources
+C:\Users\miran\OneDrive\Desktop\VS_projects\RockPaperScissorsMiniGame\RockPaperScissorsMiniGame\obj\Debug\RockPaperScissorsMiniGame.Properties.Resources.resources
+C:\Users\miran\OneDrive\Desktop\VS_projects\RockPaperScissorsMiniGame\RockPaperScissorsMiniGame\obj\Debug\RockPaperScissorsMiniGame.csproj.GenerateResource.cache
+C:\Users\miran\OneDrive\Desktop\VS_projects\RockPaperScissorsMiniGame\RockPaperScissorsMiniGame\obj\Debug\RockPaperScissorsMiniGame.csproj.CoreCompileInputs.cache
+C:\Users\miran\OneDrive\Desktop\VS_projects\RockPaperScissorsMiniGame\RockPaperScissorsMiniGame\obj\Debug\RockPaperScissorsMiniGame.exe
+C:\Users\miran\OneDrive\Desktop\VS_projects\RockPaperScissorsMiniGame\RockPaperScissorsMiniGame\obj\Debug\RockPaperScissorsMiniGame.pdb
+C:\Users\miran\OneDrive\Desktop\VS_projects\RockPaperScissorsMiniGame\RockPaperScissorsMiniGame\obj\Debug\RockPaperScissorsMiniGame.exe.config
